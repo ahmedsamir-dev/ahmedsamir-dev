@@ -22,6 +22,8 @@ const skills =
   
   frameworksAndTechnologies: ['Node', 'express'],
   
+  databases: ['MongoDB'],
+  
   toolsAndIDEs :['Vs Code', 'Visual Studio', 'Postman', 'Git'],
   
   platforms :['Heroku', 'Github']
