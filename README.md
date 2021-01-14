@@ -14,7 +14,7 @@ const skills =
 {
   languages: ['C', 'Cpp', 'Javascript', 'ES6/7/8'],
   
-  codingSkills: ['Problem Solving, Data Structures, Algorithms],
+  codingSkills: ['Problem Solving', 'Data Structures', 'Algorithms'],
   
   priciples: ['OOP', 'DRY'],
   
@@ -27,14 +27,14 @@ const skills =
   platforms :['Heroku', 'Github']
 }
 
-const futureLearn = ['Typescript, 'SOLID principles', 'Unit Testing' 'PostgreSQL', 'Socket.io']
+const futureLearn = ['Typescript', 'SOLID principles', 'Unit Testing' 'PostgreSQL', 'Socket.io']
 ```
 
 ### My Stats
 <p>
-<a href="https://github.com/AVS1508">
-  <img height="170em" style="float: left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmedsamir-dev&theme=react&layout=compact" />
-  <img height="170em" style="float: right" src="https://github-readme-stats.vercel.app/api?username=ahmedsamir-dev&show_icons=true&theme=react" />
+<a href="https://github.com/ahmedsamir-dev">
+  <img height="180em" style="float: left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmedsamir-dev&theme=react&layout=compact" />
+  <img height="180em" style="float: right" src="https://github-readme-stats.vercel.app/api?username=ahmedsamir-dev&show_icons=true&theme=react" />
 </a>
 </p>
 
