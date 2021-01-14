@@ -34,7 +34,7 @@ const futureLearn = ['Typescript', 'SOLID principles', 'Unit Testing' 'PostgreSQ
 <p>
 <a href="https://github.com/ahmedsamir-dev">
   <img height="180em" style="float: left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmedsamir-dev&theme=react&layout=compact" />
-  <img height="180em" style="float: right" src="https://github-readme-stats.vercel.app/api?username=ahmedsamir-dev&show_icons=true&theme=react" />
+  <img height="180em" style="float: right" src="https://github-readme-stats.vercel.app/api?username=ahmedsamir-dev&show_icons=true&theme=react&include_all_commits=true" />
 </a>
 </p>
 
